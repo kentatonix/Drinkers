@@ -1,0 +1,19 @@
+{
+    "ios": {
+        "awscloudformation": {
+            "AuthRoleName": "drinkers-20190402191813-authRole",
+            "UnauthRoleArn": "arn:aws:iam::845984476912:role/drinkers-20190402191813-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::845984476912:role/drinkers-20190402191813-authRole",
+            "Region": "ap-northeast-1",
+            "DeploymentBucketName": "drinkers-20190402191813-deployment",
+            "UnauthRoleName": "drinkers-20190402191813-unauthRole",
+            "StackName": "drinkers-20190402191813",
+            "StackId": "arn:aws:cloudformation:ap-northeast-1:845984476912:stack/drinkers-20190402191813/9fd1d1b0-5530-11e9-a846-0ad7850b06a8"
+        },
+        "categories": {
+            "auth": {
+                "cognito3a170a89": {}
+            }
+        }
+    }
+}
